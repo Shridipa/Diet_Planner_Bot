@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="YGj_luCu0E2ShXd9EZZwuQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="eatthismuch.com" CVScreenId="e2e02f65-5301-4259-8fcb-68de0b6b046f" CvElementArea="893, 767, 134, 42" CvTextArea="926, 781, 67, 14" CvTextArgument="Generate" CvType="Button" DesignTimeRectangle="895, 768, 131, 40" ElementType="Button" FullSelectorArgument="&lt;webctrl tag='BUTTON' type='submit' /&gt;" Guid="a3c99af3-29cd-4b7d-a0bc-f464efb3684b" ScopeSelectorArgument="&lt;html app='chrome.exe' title='The Automatic Meal Planner - Eat This Much' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="e2e02f65-5301-4259-8fcb-68de0b6b046f" CvTextArea="791, 735, 338, 12" CvTextArgument="Want to set specific macro targets? Create a free account!" CvType="Text" DesignTimeRectangle="481, 728, 960, 24" ElementType="Text" FuzzySelectorArgument="&lt;webctrl type='' parentid='create' tag='P' class='svelte-6s6k0e' aaname='' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Want to set specific macro targets? Create a free account!' /&gt;" Guid="836cac2f-2f27-4610-b7e8-fc6b0154ce74" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="02b6ef3c407c04f151db7faa9ca1544a.png" xmlns="">0rU2kpFQMbUuswiIYJCFejw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

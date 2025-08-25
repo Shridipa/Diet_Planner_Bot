@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ak4B9CDnfkOx0ZDlMeSFYg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="eatthismuch.com" CVScreenId="b04ed86d-d30a-4186-8e5a-f9666bc16bd0" CvElementArea="893, 653, 134, 43" CvTextArea="926, 668, 67, 14" CvTextArgument="Generate" CvType="Button" DesignTimeRectangle="895, 655, 131, 40" ElementType="Button" FullSelectorArgument="&lt;webctrl tag='BUTTON' type='submit' /&gt;" Guid="a6c0c25c-5bbe-4075-9f21-01891f333acf" ScopeSelectorArgument="&lt;html app='chrome.exe' title='The Automatic Meal Planner - Eat This Much' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="b04ed86d-d30a-4186-8e5a-f9666bc16bd0" CvTextArea="790, 622, 339, 12" CvTextArgument="Want to set specific macro targets? Create a free account!" CvType="Text" DesignTimeRectangle="792, 619, 337, 17" FuzzySelectorArgument="&lt;webctrl tag='SMALL' type='' class='' aaname='Want to set specific macro targets? ' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Want to set specific macro targets? Create a free account!' /&gt;" Guid="4746791f-a9b9-4e83-b85b-f4ebed9da276" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="e64fd2f6910972c681adf5edcbf857c8.png" xmlns="">0O5kIBuYV7kixBKdBSU5r6A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="E1vKjbz4C0yKphj3ZiY4Jw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="eatthismuch.com" DesignTimeRectangle="481, 483, 960, 449" ElementType="Container" FullSelectorArgument="&lt;webctrl tag='FORM' /&gt;" Guid="8a7b2b46-98c7-4bf0-bb90-6c8f3e0cf59e" ScopeSelectorArgument="&lt;html app='chrome.exe' title='The Automatic Meal Planner - Eat This Much' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="8d40a6a35f4e6d69f57b53e2e4560464.png" xmlns="">0KLcfSlEHVkmwmIY3ExYx-A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

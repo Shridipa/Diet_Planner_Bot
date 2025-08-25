@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="8a2m0jae90yOXDADj3HMRQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="eatthismuch.com" CVScreenId="2e922a2e-5f03-4df4-972b-ed8c1b692557" CvTextArea="163, 64, 107, 13" CvTextArgument="eatthismuch.com" CvType="Text" DesignTimeRectangle="128, 54, 1662, 34" FuzzySelectorArgument="&lt;ctrl name='The Automatic Meal Planner - Eat This Much - Google Chrome - Shr*' role='pane' fuzzylevel:name='0.0' /&gt;&lt;ctrl automationid='' role='grouping' matching:automationid='fuzzy' fuzzylevel:automationid='0.0' check:fulltext='eatthismuch.com&amp;#xD;&amp;#xA;Third-party cookies blocked' /&gt;" Guid="0cc51338-bb80-41df-822e-12a7078f0e27" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='The Automatic Meal Planner - Eat This Much - Google Chrome' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="159760013716aae62203b09e08e93424.png" xmlns="">0twPHIKHPBkafPt15o-DwNQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="hAwNK91zYEaN8Oss694EWA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="newtab" CVScreenId="ecd37357-2ba9-4049-a379-ab9ce56b7f3b" CvElementArea="122, 52, 1672, 37" CvType="InputBox" DesignTimeRectangle="165, 59, 1581, 24" ElementType="InputBox" FuzzySelectorArgument="&lt;ctrl name='New Tab - Google Chrome - Shridipa' role='pane' matching:name='fuzzy' fuzzylevel:name='0.0' /&gt;&lt;ctrl name='Address and search bar' role='editable text' automationid='' matching:name='fuzzy' fuzzylevel:name='0.0' matching:automationid='fuzzy' fuzzylevel:automationid='0.0' /&gt;" Guid="bb0cd827-b089-4869-a551-c7419412289b" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='New Tab - Google Chrome' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="ecd37357-2ba9-4049-a379-ab9ce56b7f3b" CvElementArea="122, 52, 1672, 37" CvType="InputBox" DesignTimeRectangle="133, 59, 24, 24" ElementType="Icon" FuzzySelectorArgument="&lt;ctrl name='New Tab - Google Chrome - Shridipa' role='pane' matching:name='fuzzy' fuzzylevel:name='0.0' /&gt;&lt;ctrl name='Search icon' role='graphic' automationid='' matching:name='fuzzy' fuzzylevel:name='0.0' matching:automationid='fuzzy' fuzzylevel:automationid='0.0' check:text='Search icon' /&gt;" Guid="6a3ee986-3d17-4c33-ac11-3c1275b05882" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="2e693d4006e895ed5ad9ce6795070da7.png" xmlns="">0Gv0nWF_ct0qPl9Fqb4Eiuw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">MouseScrollSearchedElement</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

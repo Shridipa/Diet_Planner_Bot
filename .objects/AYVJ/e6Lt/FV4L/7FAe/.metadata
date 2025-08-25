@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Preferred Diet Anything…",
+  "Type": "Element",
+  "TaxonomyType": "Container",
+  "Id": "7FAe-dLo30Gpdmbfr1QBfA",
+  "Reference": "o0Lld4OWq02WtM1Z8Y3hgA/7FAe-dLo30Gpdmbfr1QBfA",
+  "ParentRef": "o0Lld4OWq02WtM1Z8Y3hgA/FV4L650ArEaRGyAmOxziCA",
+  "Created": "2025-07-29T17:36:08.0409874Z",
+  "Updated": "2025-07-29T17:36:08.0409874Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

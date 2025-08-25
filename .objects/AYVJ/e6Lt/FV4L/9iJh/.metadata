@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Type Into I want to eat",
+  "Type": "Element",
+  "TaxonomyType": "Container",
+  "Id": "9iJh7jAHt0GR6ZsOnzX62Q",
+  "Reference": "o0Lld4OWq02WtM1Z8Y3hgA/9iJh7jAHt0GR6ZsOnzX62Q",
+  "ParentRef": "o0Lld4OWq02WtM1Z8Y3hgA/FV4L650ArEaRGyAmOxziCA",
+  "Created": "2025-07-29T17:49:40.6715375Z",
+  "Updated": "2025-07-29T17:49:40.6715375Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
